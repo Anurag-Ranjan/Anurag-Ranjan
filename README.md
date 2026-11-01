@@ -2,6 +2,11 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Anurag Ranjan 👋</h1>
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anurag+Ranjan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Things+That+Matter+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">
   Full Stack Developer | B.Tech Student | Problem Solver
 </h3>
@@ -10,6 +15,7 @@
   Building scalable applications, exploring backend engineering,
   and turning ideas into real-world products.
 </p>
+
 
 <p align="center">
   <a href="https://anuragranjan.vercel.app">
