@@ -57,33 +57,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Inductly
-**Club Induction & Recruitment Management Platform**
-
-A platform designed to simplify the college club recruitment process, from candidate applications to multi-stage evaluations and final selection.
-
-- Role-based access control and authentication.
-- Dynamic application forms and recruitment workflows.
-- Multi-stage candidate evaluation and reviewer management.
-- Real-time communication and application updates.
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Redis` `Socket.IO`
-
-### 2. AttendX
-**Geofenced Classroom Attendance System**
-
-A location-based attendance management application that streamlines classroom attendance through geofencing.
-
-- Location-based attendance verification using the Haversine formula.
-- Role-based authentication for teachers and students.
-- Time-restricted attendance sessions.
-- Attendance analytics and calendar-based tracking.
-
-`React Native` `Expo` `Node.js` `Express` `PostgreSQL` `Redis`
-
----
 
 ## 📊 GitHub Statistics
 
