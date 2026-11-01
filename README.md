@@ -89,18 +89,18 @@ A location-based attendance management application that streamlines classroom at
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Anurag-Ranjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Ranjan&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Anurag-Ranjan&theme=tokyonight&hide_border=true"
     width="70%"
   />
 </p>
