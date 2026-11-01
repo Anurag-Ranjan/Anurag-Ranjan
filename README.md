@@ -1,6 +1,5 @@
 
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Anurag Ranjan 👋</h1>
 
 
 <h1 align="center">
